@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5182e4accc081d349a79f56876148fcf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gluten
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30653bd652f468f4ebd92bdfe7c2d5a2, type: 3}
+  - {fileID: 12800000, guid: 90e0c158dc577c646be968c544dd9d1f, type: 3}
+  - {fileID: 12800000, guid: 409852250c078cd4e8946fe6008351da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
